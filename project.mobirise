@@ -18,7 +18,7 @@
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "<!-- Global Site Tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-107796515-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-107796515-1');\r\n</script>\r\n ",
-    "cookiesAlert": "Deze site gebruikt cookies om u de beste ervaring  te bieden! Lees ons <a href='privacy.html'>cookie beleid</a>."
+    "cookiesAlert": "Deze site maakt gebruik van cookies! Lees ons <a href='privacy.html'>cookie beleid</a>."
   },
   "pages": {
     "index.html": {
